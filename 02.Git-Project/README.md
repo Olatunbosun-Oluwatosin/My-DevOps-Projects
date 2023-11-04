@@ -31,3 +31,19 @@ This command is use to clone remote repo to the local repository.
 
 ![](./img/6.%20Git-clone.png)
 
+### unordered list
+- Item 1
+- Item 2
+- Item 3
+
+### Ordered list
+1. First item 
+2. Second item
+3. Third item
+
+
+[visit darey.io](https://www.darey.io)
+
+`console.log('Welcome to darey.io')`
+
+
