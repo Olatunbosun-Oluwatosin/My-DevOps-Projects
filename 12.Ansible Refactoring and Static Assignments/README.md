@@ -1,4 +1,4 @@
-## _Ansible Refactoring and Static Assignments_
+## _Ansible Refactoring, Assignments & import_
 
 ### _Jenkins job enhancement_
 ![](./img/1.%20Artifacts-copied-successfully.png)
